@@ -1,0 +1,1 @@
+The recipe of this project is listed under recipe.md, there it will show everything needed in order to create the steak. 
